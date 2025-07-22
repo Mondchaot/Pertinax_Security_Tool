@@ -1,1 +1,1 @@
-# hardware_checker.py - realer Code placeholder
+# hardware_checker.py – automatisch generiert als Platzhalter für realen Code
