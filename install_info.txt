@@ -1,0 +1,1 @@
+Sprachauswahl wurde erfolgreich integriert. Die App startet mit deutscher Sprache, umstellbar auf Englisch im Startmenü.

@@ -1,15 +1,8 @@
-package com.pertinax.securitytool.modules.driverinstaller
+// setup - DriverInstaller.kt
+// Dies ist ein Beispiel für das Modul setup, Datei DriverInstaller.kt
 
-import android.content.Context
-import android.util.Log
+package com.pertinax.setup
 
-/**
- * Treiberprüfung + automatische Installation
- * AUTO-GENERATED STUB - implement logic here.
- */
-class DriverInstaller(private val ctx: Context) {
-
-    fun init() {
-        Log.i("DriverInstaller", "Initialized")
-    }
+class DriverInstaller {
+    // TODO: Implementierung für DriverInstaller
 }

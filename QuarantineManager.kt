@@ -1,15 +1,8 @@
-package com.pertinax.securitytool.modules.quarantinemanager
+// quarantine - QuarantineManager.kt
+// Dies ist ein Beispiel für das Modul quarantine, Datei QuarantineManager.kt
 
-import android.content.Context
-import android.util.Log
+package com.pertinax.quarantine
 
-/**
- * Verwaltung isolierter verdächtiger Dateien
- * AUTO-GENERATED STUB - implement logic here.
- */
-class QuarantineManager(private val ctx: Context) {
-
-    fun init() {
-        Log.i("QuarantineManager", "Initialized")
-    }
+class QuarantineManager {
+    // TODO: Implementierung für QuarantineManager
 }

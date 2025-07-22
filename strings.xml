@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">Pertinax Security Tool</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="select_language">Select Language</string>
+    <string name="german">German</string>
+    <string name="english">English</string>
+</resources>
