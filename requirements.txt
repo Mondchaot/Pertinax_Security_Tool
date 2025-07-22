@@ -1,1 +1,7 @@
-playsound==1.2.2
+pyinstaller
+cryptography
+mitmproxy
+requests
+unittest
+safety
+bandit
