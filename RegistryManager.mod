@@ -1,0 +1,2 @@
+# Modul: RegistryManager
+# Aktiviert: true

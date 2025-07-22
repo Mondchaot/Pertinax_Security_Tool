@@ -1,0 +1,2 @@
+# Modul: SoftwareManager
+# Aktiviert: true

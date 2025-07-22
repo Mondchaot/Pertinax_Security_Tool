@@ -1,0 +1,3 @@
+package com.pertinax.securitytool.certificates
+
+object CertificateValidator

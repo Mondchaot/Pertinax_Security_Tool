@@ -1,0 +1,2 @@
+[2025-06-04 13:04:37] GeoFence-Alarm: Gerät hat gesperrte Zone betreten.
+[2025-06-04 13:04:37] Standort: Latitude: 52.5200, Longitude: 13.4050

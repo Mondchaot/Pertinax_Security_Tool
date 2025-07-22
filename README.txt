@@ -1,0 +1,1 @@
+Dies ist die Windows-Version des Pertinax Security Tools.

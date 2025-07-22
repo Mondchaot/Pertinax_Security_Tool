@@ -1,0 +1,2 @@
+# Modul: HardwareManager
+# Aktiviert: true
