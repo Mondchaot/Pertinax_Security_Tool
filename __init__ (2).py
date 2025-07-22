@@ -1,3 +1,1 @@
-# Initialisiert als Python-Modul
-if __name__ == '__main__':
-    pass
+# __init__.py – automatisch generiert als Platzhalter für realen Code
