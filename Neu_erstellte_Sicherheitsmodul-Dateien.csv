@@ -1,0 +1,9 @@
+Dateiname,Pfad
+usb_defender.py,/mnt/data/security_display_adapter/security/recovery/usb_defender.py
+wifi_defender.py,/mnt/data/security_display_adapter/security/recovery/wifi_defender.py
+bluetooth_defender.py,/mnt/data/security_display_adapter/security/recovery/bluetooth_defender.py
+boot_integrity_checker.py,/mnt/data/security_display_adapter/security/recovery/boot_integrity_checker.py
+android_sensor_checker.py,/mnt/data/security_display_adapter/mobile_security/android/src/android_sensor_checker.py
+android_app_integrity.py,/mnt/data/security_display_adapter/mobile_security/android/src/android_app_integrity.py
+windows_usb_protection.cs,/mnt/data/security_display_adapter/desktop_security/windows/windows_usb_protection.cs
+windows_registry_checker.ps1,/mnt/data/security_display_adapter/desktop_security/windows/windows_registry_checker.ps1
