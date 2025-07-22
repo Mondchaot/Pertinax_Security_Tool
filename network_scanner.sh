@@ -1,0 +1,1 @@
+Simulierter Inhalt für opt/pertinax/modules/network_scanner.sh
