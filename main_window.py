@@ -1,1 +1,1 @@
-# main_window.py - realer Code placeholder
+# main_window.py – automatisch erstellt

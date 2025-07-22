@@ -1,4 +1,1 @@
-# module_frames.py - realer Code placeholder
-
-if __name__ == '__main__':
-    pass
+# module_frames.py – automatisch erstellt

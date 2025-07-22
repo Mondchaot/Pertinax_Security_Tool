@@ -1,0 +1,1 @@
+Simulierter Inhalt für installer/startmenu_shortcut.nsh

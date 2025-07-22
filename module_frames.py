@@ -1,1 +1,1 @@
-# module_frames.py - realer Code placeholder
+# module_frames.py – automatisch erstellt

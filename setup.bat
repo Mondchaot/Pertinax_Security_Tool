@@ -1,0 +1,1 @@
+Simulierter Inhalt für installer/setup.bat
