@@ -1,0 +1,3 @@
+# Firewall rules placeholder
+ALLOW TCP 80
+ALLOW TCP 443
