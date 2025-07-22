@@ -1,0 +1,7 @@
+; Windows Kernelmode-Treiber Stub
+.386
+.model flat,stdcall
+.code
+start:
+    ret
+end start

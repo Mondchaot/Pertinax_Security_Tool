@@ -1,0 +1,1 @@
+// Dummy-Inhalt für ftp_log.txt

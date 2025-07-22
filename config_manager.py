@@ -1,1 +1,1 @@
-# config_manager.py - realer Code placeholder
+# config_manager.py – automatisch erstellt

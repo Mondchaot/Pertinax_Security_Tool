@@ -1,0 +1,3 @@
+gui_theme: dark
+firewall_enabled: true
+logging: verbose

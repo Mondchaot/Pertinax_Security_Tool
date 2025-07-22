@@ -1,1 +1,1 @@
-# __init__.py - realer Code placeholder
+# Initialisiert als Python-Modul

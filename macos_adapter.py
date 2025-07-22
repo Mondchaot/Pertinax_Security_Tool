@@ -1,0 +1,1 @@
+# ResponsiveLayout-Klasse für macOS
