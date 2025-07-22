@@ -4,6 +4,11 @@ Modular Security Suite
 
 © Pertinax Design, 2025, Sonja Müller
 
+Also wie man erkennen kann noch keine richtig klare Struktur, abgesehen davon konnte ich keine Ordner hochladen, was mich auch nervt, weil es das Gesamtkuddelmuddel vervollständigt. Ich hoffe du kommst damit klar. Alle ist irgendwie chronologisch sortiert.  Ich hatte alle geschriebenen Dateien zusammengelegt und in einen Ordner gesteckt.
+Irgendwie habe ich noch ein paar MOdule auf dem Rechner, aber ich muss die erst mal angucken, um zu entscheiden, ob ich sie nun noch hochladen muss oder nicht.
+
+
+
 Pertinax Security Tool – Benutzerhandbuch
 Hybridschutz
 Modul zur kombinierten Erkennung von Keyloggern, Spyware und versteckten Hintergrundprozessen. Echtzeitabschirmung durch KI.
