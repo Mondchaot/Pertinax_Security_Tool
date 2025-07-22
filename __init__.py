@@ -1,1 +1,1 @@
-# Initialisiert als Python-Modul
+# Auto-generated file for __init__
